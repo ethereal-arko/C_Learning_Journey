@@ -5,7 +5,8 @@ This is my learning journey through the **C Programming Language**. I am breakin
 
 ## Contents:
 - [Chapter 1 - Basics](./Chapter-1-Basics)
-- Chapter 2 - coming soon...
+- [Chapter 2 - Instructions & Operators](./Chapter-2-Instruction&Operators/)
+- Chapter 3 coming soon...
 
 ## Chapter 1: Basics
 
@@ -18,6 +19,30 @@ In this chapter, I learned about the **fundamentals of C**
 - Basic structure of a program
 - Compilation
 - Input and Output
+
+## Chapter 2: Instructions & Operators
+
+In this chapter, I learned,
+- Instructions
+	- Type Declaration Instructions
+	- Arithmetic Instructions
+		- Type conversion
+	- Control Instructions
+		- Sequence Control Instruction 
+		- Decision Control Instruction 
+		- Loop Control Instruction 
+		- Case-Control Instruction 
+
+- Operators
+	- Arithmetic Operators
+	- Relational Operators
+	- Logical Operators
+	- Assignment Operators
+	- Bitwise Operators	
+	- Ternary/Conditional Operators
+
+- Operator Precedence
+
 
 
 ## Goals
