@@ -4,19 +4,23 @@
 	- are the name of a memory location that stores data
 	- are **case-sensitive** ( `Age` and `age` are different)
 - **Data Types**
-| Type     | Description       | Memory Used |
-|:----------:|:-------------------:|:-------------:|
-| `int`    | Integer numbers    | 2 or 4 bytes|
-| `char`   | Single characters  | 1 byte      |
-| `float`  | Decimal numbers    | 4 bytes     |
-| `double` | Larger decimals    | 8 bytes     | 
+  
+| Type     | Description         | Memory Used  |
+|----------|---------------------|--------------|
+| `int`    | Integer numbers      | 2 or 4 bytes |
+| `char`   | Single characters    | 1 byte       |
+| `float`  | Decimal numbers      | 4 bytes      |
+| `double` | Larger decimals      | 8 bytes      |
+
 	 
 - **Format Specifiers**
+
 | Data Type | Format Specifier |
-|:-----------:|:------------------:|
+|-----------|------------------|
 | `int`     | `%d`              |
 | `char`    | `%c`              |
 | `float`   | `%f`              |
+
 	
 - **Constants**
 	- **Integer constants** → ( ...  `-2`  , `-1`  , `0`  , `1` , `2` ... ) 
