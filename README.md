@@ -6,7 +6,8 @@ This is my learning journey through the **C Programming Language**. I am breakin
 ## Contents:
 - [Chapter 1 - Basics](./Chapter-1-Basics)
 - [Chapter 2 - Instructions & Operators](./Chapter-2-Instruction&Operators/)
-- Chapter 3 coming soon...
+- [Chapter 3 - Conditional Statements](./Chapter-3-Conditional_Statements)
+- Chapter 4 coming soon...
 
 ## Chapter 1: Basics
 
@@ -43,7 +44,14 @@ In this chapter, I learned,
 
 - Operator Precedence
 
+## Chapter 3: Conditional Statements
 
+In this chapter, I learned,
+- Conditional Statements
+	- If-else Statements
+	- Switch Statements 
+
+- Conditional Operators
 
 ## Goals
 I aim to complete learning the C programming language step by step and track my progress in this repository.
