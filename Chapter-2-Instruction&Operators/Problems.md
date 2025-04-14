@@ -27,6 +27,6 @@
 - Output: print output
 
 
-### Problem 6: Swap Two Numbers (without using a third variable)
+## Problem 6: Swap Two Numbers (without using a third variable)
 - Input: take numbers 
 - Output: print output
