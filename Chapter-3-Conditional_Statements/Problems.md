@@ -36,8 +36,8 @@ Create a grading system based on this where, \
 - Input: take a year as input
 - Output: print output
 - Hint: 
-	1. But if it's divisible by 100, it must also be divisible by 400 \
-    2. A leap year is divisible by 4
+	1. A leap year is divisible by 4 \
+    2. But if it's not divisible by 100, it must be divisible by 400 
 
 
 ## Problem 6: Find a character that is in upper case or not
